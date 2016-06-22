@@ -7,6 +7,13 @@ public class HelloWorld {
 			System.out.println("Hello Vitor");
 			
 		}
+		System.out.println();
+		
+		for (int i = 0; i < 11; i++){
+			
+			System.out.println("Hello Pereira");
+			
+		}
 		
 	}
 }
